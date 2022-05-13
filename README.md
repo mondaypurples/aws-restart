@@ -1,2 +1,1 @@
-# aws-restart
-Brindha created readme-edits in aws-restart repo
+This repo contains basic python programs 
